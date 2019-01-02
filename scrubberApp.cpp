@@ -1,4 +1,4 @@
-/**
+/***
     Datical document scrubber
 
 	File Name: datical_log_scrubber.cpp
