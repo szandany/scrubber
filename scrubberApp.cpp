@@ -21,7 +21,7 @@ using namespace std;
 void findAndClean(string, string);
 void removeAndRename(string);
 
-//int main(int argc, char** argv)
+int main(int argc, char** argv)
 {
     //String to search.  string or part of string you would like to remove from your log file
 	//(hint! string like 'host' or 'localhost' will remove the whole string, ie: jdbc:oracle:thin:@//localhost:####/orcl')
