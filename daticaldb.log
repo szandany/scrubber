@@ -1,0 +1,1084 @@
+16:32:44.257 [Component Resolve Thread] INFO  c.d.j.osgi.AcceleratorDriverService - Activating AcceleratorDriverService.
+16:32:44.268 [Component Resolve Thread] INFO  com.datical.jdbc.osgi.DriverConsumer - DaticalJDBC notified of potential delegate driver com.datical.jdbc.oracle.DaticalOracleDriver
+16:32:48.694 [main] INFO  com.datical.db.ui.DaticalApplication - DaticalDB GUI starting up. Product version is 5.3.5427
+16:32:48.959 [main] WARN  com.datical.db.ui.DaticalConsole - Could not show Datical DB Console: Workbench has not been created yet.
+16:32:48.959 [main] INFO  com.datical.db.ui.DaticalConsole - FileAppender found: log file path is C:\Datical\DaticalDB-5.3\daticaldb.log
+16:32:48.959 [main] INFO  com.datical.db.ui.DaticalApplication - FileAppender found: log file path is C:\Datical\DaticalDB-5.3\daticaldb.log
+16:32:51.743 [main] INFO  com.datical.db.ui.DaticalConsole - =======> WARNING! One or more of your Datical DB licenses will expire in 10 days. <=======
+16:32:51.743 [main] WARN  c.d.db.ui.licensing.LicenseUtil - =======> WARNING! One or more of your Datical DB licenses will expire in 10 days. <=======
+16:32:51.743 [main] INFO  com.datical.db.ui.DaticalConsole - Datical DB Admin License
+Issued to : CN=This is not a real license! Do Not Distribute
+Issued on : Thu Nov 09 11:32:01 CST 2017
+Expires on: Fri Nov 09 11:32:01 CST 2018
+
+
+16:32:51.743 [main] WARN  c.d.db.ui.licensing.LicenseUtil - Datical DB Admin License
+Issued to : CN=This is not a real license! Do Not Distribute
+Issued on : Thu Nov 09 11:32:01 CST 2017
+Expires on: Fri Nov 09 11:32:01 CST 2018
+
+
+16:32:58.041 [main] INFO  com.datical.db.ui.DaticalConsole - Datical DB Admin License
+Issued to : CN=This is not a real license! Do Not Distribute
+Issued on : Thu Nov 09 11:32:01 CST 2017
+Expires on: Fri Nov 09 11:32:01 CST 2018
+
+
+16:32:58.042 [main] INFO  c.d.db.ui.licensing.LicenseUtil - Datical DB Admin License
+Issued to : CN=This is not a real license! Do Not Distribute
+Issued on : Thu Nov 09 11:32:01 CST 2017
+Expires on: Fri Nov 09 11:32:01 CST 2018
+
+
+16:33:01.595 [main] INFO  c.d.hammer.core.DbExternalTools - Using sqlplus located at 'C:\Datical\DaticalDB-5.3\instantclient'
+16:33:01.617 [main] INFO  c.d.hammer.core.DbExternalTools - Using sqlcmd located in the PATH at 'C:\Program Files\Microsoft SQL Server\100\Tools\Binn'
+16:33:01.618 [main] INFO  c.d.hammer.core.DbExternalTools - Using datical_edbplus.bat located at 'C:\Datical\DaticalDB-5.3\edbplus'
+16:33:01.619 [main] DEBUG com.datical.db.ui.DaticalApplication - Extensions found: [liquibase-storedlogic, liquibase-appdba]
+16:33:02.736 [main] INFO  com.datical.db.ui.util.UIUtils - Logging configuration file is /C:/Datical/DaticalDB-5.3/./logging-config.xml.
+16:33:02.736 [main] INFO  com.datical.db.ui.DaticalConsole - Logging configuration file is /C:/Datical/DaticalDB-5.3/./logging-config.xml.
+16:44:39.429 [main] INFO  c.d.j.osgi.AcceleratorDriverService - Deactivating AcceleratorDriverService.
+16:44:48.405 [Component Resolve Thread] INFO  c.d.j.osgi.AcceleratorDriverService - Activating AcceleratorDriverService.
+16:44:48.419 [Component Resolve Thread] INFO  com.datical.jdbc.osgi.DriverConsumer - DaticalJDBC notified of potential delegate driver com.datical.jdbc.oracle.DaticalOracleDriver
+16:44:48.423 [Component Resolve Thread] INFO  com.datical.jdbc.osgi.DriverConsumer - DaticalJDBC notified of potential delegate driver com.ibm.db2.jcc.DB2Driver
+16:44:48.448 [Component Resolve Thread] INFO  com.datical.jdbc.osgi.DriverConsumer - DaticalJDBC notified of potential delegate driver com.microsoft.sqlserver.jdbc.SQLServerDriver
+16:44:48.456 [Component Resolve Thread] INFO  com.datical.jdbc.osgi.DriverConsumer - DaticalJDBC notified of potential delegate driver oracle.jdbc.OracleDriver
+16:44:48.528 [Component Resolve Thread] INFO  com.datical.jdbc.osgi.DriverConsumer - DaticalJDBC notified of potential delegate driver org.postgresql.Driver
+16:44:52.030 [main] INFO  com.datical.db.ui.DaticalApplication - DaticalDB GUI starting up. Product version is 5.3.5427
+16:44:52.218 [main] WARN  com.datical.db.ui.DaticalConsole - Could not show Datical DB Console: Workbench has not been created yet.
+16:44:52.218 [main] INFO  com.datical.db.ui.DaticalConsole - FileAppender found: log file path is C:\Datical\DaticalDB-5.3\daticaldb.log
+16:44:52.218 [main] INFO  com.datical.db.ui.DaticalApplication - FileAppender found: log file path is C:\Datical\DaticalDB-5.3\daticaldb.log
+16:44:54.910 [main] INFO  com.datical.db.ui.DaticalConsole - =======> WARNING! One or more of your Datical DB licenses will expire in 10 days. <=======
+16:44:54.911 [main] WARN  c.d.db.ui.licensing.LicenseUtil - =======> WARNING! One or more of your Datical DB licenses will expire in 10 days. <=======
+16:44:54.911 [main] INFO  com.datical.db.ui.DaticalConsole - Datical DB Admin License
+Issued to : CN=This is not a real license! Do Not Distribute
+Issued on : Thu Nov 09 11:32:01 CST 2017
+Expires on: Fri Nov 09 11:32:01 CST 2018
+
+
+16:44:54.911 [main] WARN  c.d.db.ui.licensing.LicenseUtil - Datical DB Admin License
+Issued to : CN=This is not a real license! Do Not Distribute
+Issued on : Thu Nov 09 11:32:01 CST 2017
+Expires on: Fri Nov 09 11:32:01 CST 2018
+
+
+16:47:56.374 [main] INFO  com.datical.db.ui.DaticalConsole - Datical DB Admin License
+Issued to : CN=This is not a real license! Do Not Distribute
+Issued on : Thu Nov 09 11:32:01 CST 2017
+Expires on: Fri Nov 09 11:32:01 CST 2018
+
+
+16:47:56.379 [main] INFO  c.d.db.ui.licensing.LicenseUtil - Datical DB Admin License
+Issued to : CN=This is not a real license! Do Not Distribute
+Issued on : Thu Nov 09 11:32:01 CST 2017
+Expires on: Fri Nov 09 11:32:01 CST 2018
+
+
+16:47:58.550 [main] INFO  c.d.hammer.core.DbExternalTools - Using sqlplus located at 'C:\Datical\DaticalDB-5.3\instantclient'
+16:47:58.573 [main] INFO  c.d.hammer.core.DbExternalTools - Using sqlcmd located in the PATH at 'C:\Program Files\Microsoft SQL Server\100\Tools\Binn'
+16:47:58.574 [main] INFO  c.d.hammer.core.DbExternalTools - Using datical_edbplus.bat located at 'C:\Datical\DaticalDB-5.3\edbplus'
+16:47:58.575 [main] DEBUG com.datical.db.ui.DaticalApplication - Extensions found: [liquibase-storedlogic, liquibase-appdba]
+16:48:00.200 [main] INFO  com.datical.db.ui.util.UIUtils - Logging configuration file is /C:/Datical/DaticalDB-5.3/./logging-config.xml.
+16:48:00.201 [main] INFO  com.datical.db.ui.DaticalConsole - Logging configuration file is /C:/Datical/DaticalDB-5.3/./logging-config.xml.
+17:04:56.475 [main] INFO  com.datical.db.ui.DaticalConsole - Saving project null
+17:04:56.476 [main] INFO  c.d.db.model.util.ProjectContainer - Saving project null
+17:04:56.694 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:04:57.020 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:04:57.905 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:04:57.905 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:04:57.905 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:04:57.905 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:04:57.905 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:04:57.905 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:04:57.905 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:04:58.076 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:05:00.000 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:05:03.215 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:05:03.215 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:05:03.328 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:05:03.328 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:05:03.329 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:05:03.329 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:05:03.329 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:05:03.329 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:05:03.329 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:05:03.336 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:05:03.388 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:05:06.290 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:05:06.290 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:05:06.318 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:05:06.318 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:05:06.318 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:05:06.318 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:05:06.318 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:05:06.318 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:05:06.318 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:05:06.333 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:05:06.342 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:05:58.175 [main] INFO  com.datical.db.ui.DaticalConsole - Saving project TestK
+17:05:58.176 [main] INFO  c.d.db.model.util.ProjectContainer - Saving project TestK
+17:06:07.893 [main] INFO  com.datical.db.ui.DaticalConsole - Saving project TestK
+17:06:07.893 [main] INFO  c.d.db.model.util.ProjectContainer - Saving project TestK
+17:06:08.145 [main] DEBUG c.d.db.model.util.ProjectContainer - Changing last modified time for project TestK from 1540850758699 to 1540850768138
+17:06:10.125 [main] INFO  com.datical.db.ui.DaticalConsole - Saving project TestK
+17:06:10.125 [main] INFO  c.d.db.model.util.ProjectContainer - Saving project TestK
+17:06:10.278 [main] DEBUG c.d.db.model.util.ProjectContainer - Changing last modified time for project TestK from 1540850768138 to 1540850770274
+17:07:23.641 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:07:23.642 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:07:23.668 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:07:23.668 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:07:23.668 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:07:23.668 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:07:23.668 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:07:23.669 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:07:23.754 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:07:23.764 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:07:23.778 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:07:31.052 [main] INFO  com.datical.db.ui.DaticalConsole - Saving project TestK
+17:07:31.052 [main] INFO  c.d.db.model.util.ProjectContainer - Saving project TestK
+17:07:31.082 [main] DEBUG c.d.db.model.util.ProjectContainer - Changing last modified time for project TestK from 1540850770274 to 1540850851075
+17:07:34.843 [main] INFO  com.datical.db.ui.DaticalConsole - Saving project TestK
+17:07:34.843 [main] INFO  c.d.db.model.util.ProjectContainer - Saving project TestK
+17:07:34.856 [main] DEBUG c.d.db.model.util.ProjectContainer - Changing last modified time for project TestK from 1540850851075 to 1540850854853
+17:08:08.112 [main] INFO  com.datical.db.ui.DaticalConsole - Saving project TestK
+17:08:08.112 [main] INFO  c.d.db.model.util.ProjectContainer - Saving project TestK
+17:08:08.183 [main] DEBUG c.d.db.model.util.ProjectContainer - Changing last modified time for project TestK from 1540850854853 to 1540850888178
+17:08:14.062 [main] INFO  com.datical.db.ui.DaticalConsole - Saving project TestK
+17:08:14.062 [main] INFO  c.d.db.model.util.ProjectContainer - Saving project TestK
+17:08:14.083 [main] DEBUG c.d.db.model.util.ProjectContainer - Changing last modified time for project TestK from 1540850888178 to 1540850894073
+17:27:27.630 [main] INFO  com.datical.db.ui.DaticalConsole - Saving project TestK
+17:27:27.631 [main] INFO  c.d.db.model.util.ProjectContainer - Saving project TestK
+17:27:27.665 [main] DEBUG c.d.db.model.util.ProjectContainer - Changing last modified time for project TestK from 1540850894073 to 1540852047661
+17:27:27.671 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:27:27.671 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:27:27.713 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:27:27.713 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:27:27.713 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:27:27.713 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:27:27.713 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:27:27.713 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:27:27.715 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:27:27.748 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:27:28.791 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:27:29.536 [main] INFO  com.datical.db.ui.DaticalConsole - Saving project TestK
+17:27:29.536 [main] INFO  c.d.db.model.util.ProjectContainer - Saving project TestK
+17:27:29.578 [main] DEBUG c.d.db.model.util.ProjectContainer - Changing last modified time for project TestK from 1540852047661 to 1540852049572
+17:28:05.461 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:28:05.461 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:28:05.531 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:28:05.531 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:28:05.531 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:28:05.531 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:28:05.531 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:28:05.531 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:28:05.533 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:28:05.540 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:28:05.657 [ModalContext] INFO  c.d.h.c.f.ForecastJobObjectCreator - Client 'UI' creating 'forecast' job object at Mon Oct 29 17:28:05 CDT 2018
+17:28:05.658 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Create ForecastJobObject
+17:28:05.658 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: get list of changesets both to run and have run
+17:28:06.412 [ModalContext] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:28:06.699 [ModalContext] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsBeforeInit is 239 of 250
+17:28:18.930 [ModalContext] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:28:18.954 [ModalContext] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsAfterInit is 239 of 250
+17:28:19.053 [ModalContext] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - liquibase tables initialized
+17:28:19.080 [ModalContext] INFO  c.d.hammer.core.DbExternalTools - Using sqlplus located at 'C:\Datical\DaticalDB-5.3\instantclient'
+17:28:22.131 [ModalContext] DEBUG LiquibaseSchemaResolver - Found namespace details class liquibase.parser.core.xml.StandardNamespaceDetails for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
+17:28:22.131 [ModalContext] DEBUG LiquibaseSchemaResolver - Local path for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd is liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:28:22.131 [ModalContext] DEBUG LiquibaseSchemaResolver - Successfully loaded XSD from liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:28:22.340 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -    get list of changesets both to run and have run took    16.6961 seconds
+17:28:22.358 [ModalContext] INFO  c.d.h.c.f.ForecastJobObjectCreator - Client 'UI' created 'forecast' job object at Mon Oct 29 17:28:22 CDT 2018
+17:28:22.358 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -                           Create ForecastJobObject took    16.7164 seconds
+17:28:22.359 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: jobService.takeProfile()
+17:28:22.459 [ModalContext] INFO  c.d.h.c.p.s.DaticalDbProfileService - Starting profiling of [DATICAL]: Mon Oct 29 17:28:22 CDT 2018
+17:28:22.463 [ModalContext] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT SYNONYM_NAME,  TABLE_OWNER AS OBJECT_SCHEMA_NAME, ALL_SYNONYMS.OWNER AS SYNONYM_SCHEMA_NAME, TABLE_NAME AS OBJECT_NAME  FROM ALL_SYNONYMS WHERE OWNER='PUBLIC' and (TABLE_OWNER not in ('APPQOSSYS','BI','CTXSYS','DBMS_PRIVILEGE_CAPTURE','DBSNMP','DIP','DMSYS','DVSYS','EXFSYS','FLOWS_FILES','LBACSYS','MDDATA','MDSYS','MGMT_VIEW','ODM','ODM_MTR','OLAPSYS','ORACLE_OCM','ORDDATA','ORDSYS','OUTLN','SYS','SYSMAN','SYSTEM','WMSYS','XDB' )) and (TABLE_OWNER not like 'APEX_%') order by TABLE_OWNER
+17:28:22.988 [Thread-7] INFO  c.d.h.c.p.service.ProfileRunnable - Profiling [DATICAL]: Mon Oct 29 17:28:22 CDT 2018
+17:28:22.988 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: gatherTableProfiles
+17:28:22.988 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getTableDescriptions
+17:28:23.229 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                               getTableDescriptions took     0.2410 seconds
+17:28:23.229 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: get detailed info for all tables
+17:28:23.230 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getUniqueConstraints (for whole schema 'DATICAL')
+17:28:23.232 [Thread-7] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+select UC.constraint_name AS UC_CONSTRAINT_NAME, UC.table_name AS UC_TABLE_NAME, UC.owner AS UC_OWNER, UI.index_name AS UI_INDEX_NAME, UI.owner AS UI_OWNER from all_constraints UC, all_indexes UI where UC.constraint_type='U' and UC.index_name = UI.index_name and UC.owner = 'DATICAL'
+17:28:23.946 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -  getUniqueConstraints (for whole schema 'DATICAL') took     0.7158 seconds
+17:28:23.946 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for A_DEMO_TABLE
+17:28:23.946 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getPrimaryKeysForSchema
+17:28:23.947 [Thread-7] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT cols.table_name, cols.column_name, cols.constraint_name, cols.position, cons.status, cons.owner, cons.index_name, cons.index_owner FROM all_constraints cons, all_cons_columns cols WHERE cols.owner = 'DATICAL' AND cons.constraint_type = 'P' AND cons.constraint_name = cols.constraint_name AND cons.owner = cols.owner ORDER BY cols.table_name, cols.position
+17:28:24.856 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                            getPrimaryKeysForSchema took     0.9100 seconds
+17:28:24.857 [Thread-7] INFO  c.d.h.c.p.service.DbProfileHelper - Populate columns map for DATICAL table A_DEMO_TABLE
+17:28:24.860 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: populateColumnsMap
+17:28:24.860 [Thread-7] INFO  c.d.h.c.p.service.DbProfileHelper - Retrieving columns for all tables
+17:28:25.376 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                 populateColumnsMap took     0.5168 seconds
+17:28:25.376 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:28:25.376 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:28:25.376 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: populateIndices
+17:28:26.104 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                    populateIndices took     0.7281 seconds
+17:28:26.106 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.7297 seconds
+17:28:26.109 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.7301 seconds
+17:28:26.109 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:28:26.109 [Thread-7] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT CONSTRAINT_NAME, TABLE_NAME, STATUS FROM ALL_CONSTRAINTS WHERE CONSTRAINT_TYPE = 'C' AND OWNER='DATICAL'
+17:28:26.341 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.2326 seconds
+17:28:26.341 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for A_DEMO_TABLE
+17:28:26.341 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeysForSchema
+17:28:26.342 [Thread-7] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT f.table_name as fktable_name, fc.column_name as fkcolumn_name, f.constraint_name as fk_name FROM all_cons_columns pc, all_constraints p, all_cons_columns fc, all_constraints f WHERE f.owner = 'DATICAL' AND f.constraint_type = 'R' AND p.owner = f.r_owner AND p.constraint_name = f.r_constraint_name AND p.constraint_type = 'P' AND pc.owner = p.owner AND pc.constraint_name = p.constraint_name AND pc.table_name = p.table_name AND fc.owner = f.owner AND fc.constraint_name = f.constraint_name AND fc.table_name = f.table_name AND fc.position = pc.position ORDER BY fktable_name
+17:28:38.520 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                            getForeignKeysForSchema took    12.1887 seconds
+17:28:38.520 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -          getForeignKeyConstraints for A_DEMO_TABLE took    12.1891 seconds
+17:28:38.524 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                         tableInfo for A_DEMO_TABLE took    14.5883 seconds
+17:28:38.524 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for A_DEMO_TABLE1
+17:28:38.524 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:28:38.524 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:28:38.524 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0002 seconds
+17:28:38.524 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0005 seconds
+17:28:38.525 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:28:38.525 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0002 seconds
+17:28:38.525 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for A_DEMO_TABLE1
+17:28:38.525 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -         getForeignKeyConstraints for A_DEMO_TABLE1 took     0.0001 seconds
+17:28:38.526 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                        tableInfo for A_DEMO_TABLE1 took     0.0017 seconds
+17:28:38.526 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for A_DEMO_TABLE2
+17:28:38.526 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:28:38.526 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:28:38.526 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0002 seconds
+17:28:38.526 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0005 seconds
+17:28:38.527 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:28:38.527 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0002 seconds
+17:28:38.527 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for A_DEMO_TABLE2
+17:28:38.527 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -         getForeignKeyConstraints for A_DEMO_TABLE2 took     0.0001 seconds
+17:28:38.528 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                        tableInfo for A_DEMO_TABLE2 took     0.0021 seconds
+17:28:38.528 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for CHAR_USED_TEST_TABLE_1
+17:28:38.528 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:28:38.528 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:28:38.529 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0002 seconds
+17:28:38.529 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0004 seconds
+17:28:38.529 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:28:38.529 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0004 seconds
+17:28:38.529 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for CHAR_USED_TEST_TABLE_1
+17:28:38.530 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - getForeignKeyConstraints for CHAR_USED_TEST_TABLE_1 took     0.0003 seconds
+17:28:38.530 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -               tableInfo for CHAR_USED_TEST_TABLE_1 took     0.0022 seconds
+17:28:38.530 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for DATABASECHANGELOG
+17:28:38.530 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                    tableInfo for DATABASECHANGELOG took     0.0001 seconds
+17:28:38.531 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for DATABASECHANGELOGLOCK
+17:28:38.531 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                tableInfo for DATABASECHANGELOGLOCK took     0.0001 seconds
+17:28:38.531 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for PAYER_LIFE_TEST
+17:28:38.532 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:28:38.532 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:28:38.532 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0002 seconds
+17:28:38.545 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0132 seconds
+17:28:38.545 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:28:38.546 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0002 seconds
+17:28:38.546 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for PAYER_LIFE_TEST
+17:28:38.546 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -       getForeignKeyConstraints for PAYER_LIFE_TEST took     0.0005 seconds
+17:28:38.548 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                      tableInfo for PAYER_LIFE_TEST took     0.0173 seconds
+17:28:38.548 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                   get detailed info for all tables took    15.3293 seconds
+17:28:38.577 [Thread-7] DEBUG c.d.h.c.p.service.DbProfileHelper - 
+DATICAL Gathered row counts for 7 tables
+17:28:38.579 [Thread-7] DEBUG c.d.h.c.p.service.DbProfileHelper - 
+DATICAL Gathered profile information for 7 tables
+17:28:38.579 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                gatherTableProfiles took    15.6012 seconds
+17:28:38.579 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addViews
+17:28:38.641 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                           addViews took     0.0619 seconds
+17:28:38.641 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addProcedures
+17:28:38.643 [Thread-7] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+select object_name from all_objects where object_type='PROCEDURE' AND owner='DATICAL'
+17:28:38.728 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                      addProcedures took     0.0854 seconds
+17:28:38.728 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addFunctions
+17:28:38.730 [Thread-7] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+select object_name from all_objects where object_type='FUNCTION' AND owner='DATICAL'
+17:28:38.817 [Thread-7] DEBUG c.d.h.c.p.service.DbProfileHelper - 
+DATICAL Gathered profile information for 2 functions
+17:28:38.817 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                       addFunctions took     0.0886 seconds
+17:28:38.817 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addPackages
+17:28:38.819 [Thread-7] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT OBJECT_NAME FROM ALL_OBJECTS WHERE OBJECT_TYPE IN ('PACKAGE') AND OWNER='DATICAL'
+17:28:38.887 [Thread-7] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT OBJECT_NAME FROM ALL_OBJECTS WHERE OBJECT_TYPE IN ('PACKAGE BODY') AND OWNER='DATICAL'
+17:28:38.966 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                        addPackages took     0.1480 seconds
+17:28:38.966 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addSynonyms
+17:28:38.969 [Thread-7] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT SYNONYM_NAME, TABLE_NAME FROM ALL_SYNONYMS WHERE OWNER='DATICAL'
+17:28:39.395 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                        addSynonyms took     0.4291 seconds
+17:28:39.395 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addSequences
+17:28:39.421 [Thread-7] DEBUG c.d.h.c.p.service.DbProfileHelper - DATICAL Gathered profile information for 18 sequences
+17:28:39.421 [Thread-7] DEBUG c.d.hammer.core.utils.SimpleTimer -                                       addSequences took     0.0263 seconds
+17:28:39.421 [Thread-7] INFO  c.d.h.c.p.service.ProfileRunnable - Completed profiling [DATICAL]: Mon Oct 29 17:28:39 CDT 2018
+17:28:39.424 [ModalContext] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT TRIGGER_NAME, TRIGGER_BODY, STATUS FROM ALL_TRIGGERS WHERE OWNER='DATICAL'
+17:28:39.740 [ModalContext] INFO  c.d.h.c.p.s.DaticalDbProfileService - Ending profiling of [DATICAL]: Mon Oct 29 17:28:39 CDT 2018
+17:28:39.740 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -                           jobService.takeProfile() took    17.3921 seconds
+17:28:39.740 [ModalContext] INFO  c.d.h.c.f.ForecastJobObjectCreator - Finished taking profile at Mon Oct 29 17:28:39 CDT 2018
+17:28:39.743 [ModalContext] INFO  com.datical.db.ui.DaticalConsole - 
+Profile information for database REF
+
+DATICAL Gathered profile information for 34 columns
+DATICAL Gathered profile information for 1 indices
+DATICAL Gathered profile information for 3 check constraints
+DATICAL Gathered row counts for 7 tables
+DATICAL Gathered profile information for 7 tables
+DATICAL Gathered profile information for 2 functions
+DATICAL Gathered profile information for 18 sequences
+17:28:39.743 [ModalContext] INFO  c.d.d.u.actions.CreateForecastHelper - 
+Profile information for database REF
+
+DATICAL Gathered profile information for 34 columns
+DATICAL Gathered profile information for 1 indices
+DATICAL Gathered profile information for 3 check constraints
+DATICAL Gathered row counts for 7 tables
+DATICAL Gathered profile information for 7 tables
+DATICAL Gathered profile information for 2 functions
+DATICAL Gathered profile information for 18 sequences
+17:28:39.744 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: execForecast
+17:28:39.744 [ModalContext] INFO  com.datical.db.ui.DaticalConsole - Change log is empty.
+17:29:07.356 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -                                       execForecast took    27.6269 seconds
+17:29:07.367 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:33:41.641 [main] INFO  com.datical.db.ui.DaticalConsole - Saving project TestK
+17:33:41.641 [main] INFO  c.d.db.model.util.ProjectContainer - Saving project TestK
+17:33:41.667 [main] DEBUG c.d.db.model.util.ProjectContainer - Changing last modified time for project TestK from 1540852049572 to 1540852421661
+17:36:01.242 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: setSnapshotChangelog
+17:36:01.256 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -                               setSnapshotChangelog took     0.0136 seconds
+17:36:01.257 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: setSnapshotChangelog
+17:36:01.258 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -                               setSnapshotChangelog took     0.0003 seconds
+17:38:03.830 [ModalContext] INFO  com.datical.db.ui.DaticalConsole - Saving changelog for project TestK
+17:39:23.446 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:39:23.446 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:39:23.540 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:39:23.541 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:39:23.541 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:39:23.541 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:39:23.541 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:39:23.541 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:39:23.545 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:39:23.575 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:39:23.641 [ModalContext] INFO  c.d.h.c.f.ForecastJobObjectCreator - Client 'UI' creating 'forecast' job object at Mon Oct 29 17:39:23 CDT 2018
+17:39:23.641 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Create ForecastJobObject
+17:39:23.641 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: get list of changesets both to run and have run
+17:39:23.642 [ModalContext] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:39:23.662 [ModalContext] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsBeforeInit is 239 of 250
+17:39:23.710 [ModalContext] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:39:23.723 [ModalContext] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsAfterInit is 239 of 250
+17:39:23.725 [ModalContext] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - liquibase tables initialized
+17:39:23.757 [ModalContext] INFO  c.d.hammer.core.DbExternalTools - Using sqlplus located at 'C:\Datical\DaticalDB-5.3\instantclient'
+17:39:23.764 [ModalContext] DEBUG LiquibaseSchemaResolver - Found namespace details class liquibase.parser.core.xml.StandardNamespaceDetails for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
+17:39:23.764 [ModalContext] DEBUG LiquibaseSchemaResolver - Local path for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd is liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:39:23.764 [ModalContext] DEBUG LiquibaseSchemaResolver - Successfully loaded XSD from liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:39:23.873 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -    get list of changesets both to run and have run took     0.2330 seconds
+17:39:23.890 [ModalContext] INFO  c.d.h.c.f.ForecastJobObjectCreator - Client 'UI' created 'forecast' job object at Mon Oct 29 17:39:23 CDT 2018
+17:39:23.890 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -                           Create ForecastJobObject took     0.2504 seconds
+17:39:23.890 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: jobService.takeProfile()
+17:39:23.891 [ModalContext] INFO  c.d.h.c.p.s.DaticalDbProfileService - Starting profiling of [DATICAL]: Mon Oct 29 17:39:23 CDT 2018
+17:39:23.891 [ModalContext] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT SYNONYM_NAME,  TABLE_OWNER AS OBJECT_SCHEMA_NAME, ALL_SYNONYMS.OWNER AS SYNONYM_SCHEMA_NAME, TABLE_NAME AS OBJECT_NAME  FROM ALL_SYNONYMS WHERE OWNER='PUBLIC' and (TABLE_OWNER not in ('APPQOSSYS','BI','CTXSYS','DBMS_PRIVILEGE_CAPTURE','DBSNMP','DIP','DMSYS','DVSYS','EXFSYS','FLOWS_FILES','LBACSYS','MDDATA','MDSYS','MGMT_VIEW','ODM','ODM_MTR','OLAPSYS','ORACLE_OCM','ORDDATA','ORDSYS','OUTLN','SYS','SYSMAN','SYSTEM','WMSYS','XDB' )) and (TABLE_OWNER not like 'APEX_%') order by TABLE_OWNER
+17:39:23.943 [Thread-9] INFO  c.d.h.c.p.service.ProfileRunnable - Profiling [DATICAL]: Mon Oct 29 17:39:23 CDT 2018
+17:39:23.944 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: gatherTableProfiles
+17:39:23.944 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getTableDescriptions
+17:39:23.999 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                               getTableDescriptions took     0.0551 seconds
+17:39:24.000 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: get detailed info for all tables
+17:39:24.000 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getUniqueConstraints (for whole schema 'DATICAL')
+17:39:24.000 [Thread-9] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+select UC.constraint_name AS UC_CONSTRAINT_NAME, UC.table_name AS UC_TABLE_NAME, UC.owner AS UC_OWNER, UI.index_name AS UI_INDEX_NAME, UI.owner AS UI_OWNER from all_constraints UC, all_indexes UI where UC.constraint_type='U' and UC.index_name = UI.index_name and UC.owner = 'DATICAL'
+17:39:24.425 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -  getUniqueConstraints (for whole schema 'DATICAL') took     0.4253 seconds
+17:39:24.425 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for A_DEMO_TABLE
+17:39:24.425 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getPrimaryKeysForSchema
+17:39:24.425 [Thread-9] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT cols.table_name, cols.column_name, cols.constraint_name, cols.position, cons.status, cons.owner, cons.index_name, cons.index_owner FROM all_constraints cons, all_cons_columns cols WHERE cols.owner = 'DATICAL' AND cons.constraint_type = 'P' AND cons.constraint_name = cols.constraint_name AND cons.owner = cols.owner ORDER BY cols.table_name, cols.position
+17:39:25.285 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                            getPrimaryKeysForSchema took     0.8593 seconds
+17:39:25.285 [Thread-9] INFO  c.d.h.c.p.service.DbProfileHelper - Populate columns map for DATICAL table A_DEMO_TABLE
+17:39:25.285 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: populateColumnsMap
+17:39:25.286 [Thread-9] INFO  c.d.h.c.p.service.DbProfileHelper - Retrieving columns for all tables
+17:39:25.758 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                 populateColumnsMap took     0.4733 seconds
+17:39:25.759 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:39:25.759 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:39:25.759 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: populateIndices
+17:39:25.851 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                    populateIndices took     0.0912 seconds
+17:39:25.851 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0916 seconds
+17:39:25.851 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0919 seconds
+17:39:25.852 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:39:25.852 [Thread-9] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT CONSTRAINT_NAME, TABLE_NAME, STATUS FROM ALL_CONSTRAINTS WHERE CONSTRAINT_TYPE = 'C' AND OWNER='DATICAL'
+17:39:26.460 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.6085 seconds
+17:39:26.460 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for A_DEMO_TABLE
+17:39:26.462 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeysForSchema
+17:39:26.462 [Thread-9] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT f.table_name as fktable_name, fc.column_name as fkcolumn_name, f.constraint_name as fk_name FROM all_cons_columns pc, all_constraints p, all_cons_columns fc, all_constraints f WHERE f.owner = 'DATICAL' AND f.constraint_type = 'R' AND p.owner = f.r_owner AND p.constraint_name = f.r_constraint_name AND p.constraint_type = 'P' AND pc.owner = p.owner AND pc.constraint_name = p.constraint_name AND pc.table_name = p.table_name AND fc.owner = f.owner AND fc.constraint_name = f.constraint_name AND fc.table_name = f.table_name AND fc.position = pc.position ORDER BY fktable_name
+17:39:26.463 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                            getForeignKeysForSchema took     0.0010 seconds
+17:39:26.464 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -          getForeignKeyConstraints for A_DEMO_TABLE took     0.0033 seconds
+17:39:26.465 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                         tableInfo for A_DEMO_TABLE took     2.0392 seconds
+17:39:26.465 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for A_DEMO_TABLE1
+17:39:26.465 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:39:26.465 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:39:26.465 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0002 seconds
+17:39:26.465 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0004 seconds
+17:39:26.465 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:39:26.465 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0001 seconds
+17:39:26.466 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for A_DEMO_TABLE1
+17:39:26.466 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -         getForeignKeyConstraints for A_DEMO_TABLE1 took     0.0001 seconds
+17:39:26.466 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                        tableInfo for A_DEMO_TABLE1 took     0.0017 seconds
+17:39:26.466 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for A_DEMO_TABLE2
+17:39:26.468 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:39:26.468 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:39:26.468 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0002 seconds
+17:39:26.468 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0014 seconds
+17:39:26.468 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:39:26.468 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0001 seconds
+17:39:26.468 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for A_DEMO_TABLE2
+17:39:26.469 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -         getForeignKeyConstraints for A_DEMO_TABLE2 took     0.0001 seconds
+17:39:26.470 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                        tableInfo for A_DEMO_TABLE2 took     0.0031 seconds
+17:39:26.470 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for CHAR_USED_TEST_TABLE_1
+17:39:26.470 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:39:26.470 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:39:26.470 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0002 seconds
+17:39:26.470 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0004 seconds
+17:39:26.470 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:39:26.470 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0001 seconds
+17:39:26.471 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for CHAR_USED_TEST_TABLE_1
+17:39:26.471 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - getForeignKeyConstraints for CHAR_USED_TEST_TABLE_1 took     0.0002 seconds
+17:39:26.471 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -               tableInfo for CHAR_USED_TEST_TABLE_1 took     0.0017 seconds
+17:39:26.472 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for DATABASECHANGELOG
+17:39:26.472 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                    tableInfo for DATABASECHANGELOG took     0.0001 seconds
+17:39:26.472 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for DATABASECHANGELOGLOCK
+17:39:26.472 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                tableInfo for DATABASECHANGELOGLOCK took     0.0001 seconds
+17:39:26.472 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for PAYER_LIFE_TEST
+17:39:26.472 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:39:26.472 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:39:26.472 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0002 seconds
+17:39:26.473 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0005 seconds
+17:39:26.473 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:39:26.473 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0001 seconds
+17:39:26.473 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for PAYER_LIFE_TEST
+17:39:26.473 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -       getForeignKeyConstraints for PAYER_LIFE_TEST took     0.0001 seconds
+17:39:26.474 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                      tableInfo for PAYER_LIFE_TEST took     0.0024 seconds
+17:39:26.475 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                   get detailed info for all tables took     2.4748 seconds
+17:39:26.491 [Thread-9] DEBUG c.d.h.c.p.service.DbProfileHelper - 
+DATICAL Gathered row counts for 7 tables
+17:39:26.491 [Thread-9] DEBUG c.d.h.c.p.service.DbProfileHelper - 
+DATICAL Gathered profile information for 7 tables
+17:39:26.492 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                gatherTableProfiles took     2.5483 seconds
+17:39:26.492 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addViews
+17:39:26.548 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                           addViews took     0.0564 seconds
+17:39:26.548 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addProcedures
+17:39:26.550 [Thread-9] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+select object_name from all_objects where object_type='PROCEDURE' AND owner='DATICAL'
+17:39:26.550 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                      addProcedures took     0.0019 seconds
+17:39:26.550 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addFunctions
+17:39:26.552 [Thread-9] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+select object_name from all_objects where object_type='FUNCTION' AND owner='DATICAL'
+17:39:26.554 [Thread-9] DEBUG c.d.h.c.p.service.DbProfileHelper - 
+DATICAL Gathered profile information for 2 functions
+17:39:26.554 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                       addFunctions took     0.0038 seconds
+17:39:26.554 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addPackages
+17:39:26.555 [Thread-9] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT OBJECT_NAME FROM ALL_OBJECTS WHERE OBJECT_TYPE IN ('PACKAGE') AND OWNER='DATICAL'
+17:39:26.557 [Thread-9] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT OBJECT_NAME FROM ALL_OBJECTS WHERE OBJECT_TYPE IN ('PACKAGE BODY') AND OWNER='DATICAL'
+17:39:26.558 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                        addPackages took     0.0032 seconds
+17:39:26.558 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addSynonyms
+17:39:26.559 [Thread-9] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT SYNONYM_NAME, TABLE_NAME FROM ALL_SYNONYMS WHERE OWNER='DATICAL'
+17:39:26.590 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                        addSynonyms took     0.0319 seconds
+17:39:26.590 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addSequences
+17:39:26.598 [Thread-9] DEBUG c.d.h.c.p.service.DbProfileHelper - DATICAL Gathered profile information for 18 sequences
+17:39:26.598 [Thread-9] DEBUG c.d.hammer.core.utils.SimpleTimer -                                       addSequences took     0.0083 seconds
+17:39:26.598 [Thread-9] INFO  c.d.h.c.p.service.ProfileRunnable - Completed profiling [DATICAL]: Mon Oct 29 17:39:26 CDT 2018
+17:39:26.601 [ModalContext] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT TRIGGER_NAME, TRIGGER_BODY, STATUS FROM ALL_TRIGGERS WHERE OWNER='DATICAL'
+17:39:26.944 [ModalContext] INFO  c.d.h.c.p.s.DaticalDbProfileService - Ending profiling of [DATICAL]: Mon Oct 29 17:39:26 CDT 2018
+17:39:26.945 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -                           jobService.takeProfile() took     3.0537 seconds
+17:39:26.945 [ModalContext] INFO  c.d.h.c.f.ForecastJobObjectCreator - Finished taking profile at Mon Oct 29 17:39:26 CDT 2018
+17:39:26.947 [ModalContext] INFO  com.datical.db.ui.DaticalConsole - 
+Profile information for database REF
+
+DATICAL Gathered profile information for 34 columns
+DATICAL Gathered profile information for 1 indices
+DATICAL Gathered profile information for 3 check constraints
+DATICAL Gathered row counts for 7 tables
+DATICAL Gathered profile information for 7 tables
+DATICAL Gathered profile information for 2 functions
+DATICAL Gathered profile information for 18 sequences
+17:39:26.947 [ModalContext] INFO  c.d.d.u.actions.CreateForecastHelper - 
+Profile information for database REF
+
+DATICAL Gathered profile information for 34 columns
+DATICAL Gathered profile information for 1 indices
+DATICAL Gathered profile information for 3 check constraints
+DATICAL Gathered row counts for 7 tables
+DATICAL Gathered profile information for 7 tables
+DATICAL Gathered profile information for 2 functions
+DATICAL Gathered profile information for 18 sequences
+17:39:26.947 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: execForecast
+17:39:27.170 [ModalContext] DEBUG o.drools.core.impl.KnowledgeBaseImpl - Starting Engine in RETEOO mode
+17:39:28.124 [ModalContext] INFO  c.d.h.c.f.rules.PreForecastRules - Loaded rules from classpath preForecast-multiSchemaRules.drl
+17:39:29.047 [ModalContext] DEBUG o.drools.core.impl.KnowledgeBaseImpl - Starting Engine in RETEOO mode
+17:39:29.082 [ModalContext] DEBUG LiquibaseSchemaResolver - Found namespace details class liquibase.parser.core.xml.StandardNamespaceDetails for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
+17:39:29.083 [ModalContext] DEBUG LiquibaseSchemaResolver - Local path for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd is liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:39:29.083 [ModalContext] DEBUG LiquibaseSchemaResolver - Successfully loaded XSD from liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:39:29.316 [ModalContext] DEBUG c.d.h.c.f.DaticalDbForecastService - setting SQL Plus spool location to
+C:\Users\TestUser1\datical\TestK\Logs\2018\10-Oct\REF\forecast_REF_20181029_173923
+17:39:29.316 [ModalContext] DEBUG c.d.h.c.f.DaticalDbForecastService - setting sqlcmd log file location to
+C:\Users\TestUser1\datical\TestK\Logs\2018\10-Oct\REF\forecast_REF_20181029_173923
+17:39:29.316 [ModalContext] DEBUG c.d.h.c.f.DaticalDbForecastService - setting edbplus spool location to
+C:\Users\TestUser1\datical\TestK\Logs\2018\10-Oct\REF\forecast_REF_20181029_173923
+17:39:29.320 [ModalContext] DEBUG o.drools.core.impl.KnowledgeBaseImpl - Starting Engine in RETEOO mode
+17:39:29.320 [ModalContext] INFO  c.d.h.c.f.r.DaticalRulesChangeVisitor - Loaded rules from classpath modifyDataTypeRules.drl
+17:39:29.557 [ModalContext] DEBUG o.drools.core.impl.KnowledgeBaseImpl - Starting Engine in RETEOO mode
+17:39:29.711 [ModalContext] INFO  c.d.h.c.f.rules.PreForecastRules - There were 0 rules fired
+17:39:30.194 [ModalContext] INFO  c.d.h.c.f.DaticalDbForecastService - Forecast for ALL CONTEXTS created. It has 1 TableMods
+17:39:30.197 [ModalContext] DEBUG c.d.h.core.reporting.ReportUtils - Creating forecast report in folder C:\Users\TestUser1\datical\TestK\Reports\2018\10-Oct\REF\forecast_REF_20181029_173923 with templateName forecast and properties {report.template.paths=C:\Users\TestUser1\datical\TestK\Reports\2018\10-Oct\REF\forecast_REF_20181029_173923}
+17:39:30.332 [ModalContext] DEBUG c.d.h.core.reporting.UberTemplate - Initializing Velocity with properties {file.resource.loader.path=templates, ${HOME}/templates,C:\Users\TestUser1\datical\TestK\Reports\2018\10-Oct\REF\forecast_REF_20181029_173923, file.resource.loader.class=org.apache.velocity.runtime.resource.loader.FileResourceLoader, resource.loader=file, runtime.log=${HOME}/velocity.log, file.resource.loader.description=Velocity File Resource Loader}
+17:39:30.773 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -                                       execForecast took     3.8271 seconds
+17:39:31.621 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:42:17.243 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:42:17.243 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:42:17.270 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:42:17.270 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:42:17.270 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:42:17.270 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:42:17.270 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:42:17.270 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:42:17.274 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:42:17.279 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:42:17.332 [ModalContext] INFO  c.d.h.c.f.ForecastJobObjectCreator - Client 'UI' creating 'forecast' job object at Mon Oct 29 17:42:17 CDT 2018
+17:42:17.333 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Create ForecastJobObject
+17:42:17.333 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: get list of changesets both to run and have run
+17:42:17.523 [ModalContext] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:42:17.549 [ModalContext] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsBeforeInit is 239 of 250
+17:42:17.605 [ModalContext] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:42:17.624 [ModalContext] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsAfterInit is 239 of 250
+17:42:17.627 [ModalContext] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - liquibase tables initialized
+17:42:17.634 [ModalContext] INFO  c.d.hammer.core.DbExternalTools - Using sqlplus located at 'C:\Datical\DaticalDB-5.3\instantclient'
+17:42:17.637 [ModalContext] DEBUG LiquibaseSchemaResolver - Found namespace details class liquibase.parser.core.xml.StandardNamespaceDetails for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
+17:42:17.637 [ModalContext] DEBUG LiquibaseSchemaResolver - Local path for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd is liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:42:17.638 [ModalContext] DEBUG LiquibaseSchemaResolver - Successfully loaded XSD from liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:42:17.702 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -    get list of changesets both to run and have run took     0.3356 seconds
+17:42:17.714 [ModalContext] INFO  c.d.h.c.f.ForecastJobObjectCreator - Client 'UI' created 'forecast' job object at Mon Oct 29 17:42:17 CDT 2018
+17:42:17.714 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -                           Create ForecastJobObject took     0.3464 seconds
+17:42:17.714 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: jobService.takeProfile()
+17:42:17.714 [ModalContext] INFO  c.d.h.c.p.s.DaticalDbProfileService - Starting profiling of [DATICAL]: Mon Oct 29 17:42:17 CDT 2018
+17:42:17.714 [ModalContext] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT SYNONYM_NAME,  TABLE_OWNER AS OBJECT_SCHEMA_NAME, ALL_SYNONYMS.OWNER AS SYNONYM_SCHEMA_NAME, TABLE_NAME AS OBJECT_NAME  FROM ALL_SYNONYMS WHERE OWNER='PUBLIC' and (TABLE_OWNER not in ('APPQOSSYS','BI','CTXSYS','DBMS_PRIVILEGE_CAPTURE','DBSNMP','DIP','DMSYS','DVSYS','EXFSYS','FLOWS_FILES','LBACSYS','MDDATA','MDSYS','MGMT_VIEW','ODM','ODM_MTR','OLAPSYS','ORACLE_OCM','ORDDATA','ORDSYS','OUTLN','SYS','SYSMAN','SYSTEM','WMSYS','XDB' )) and (TABLE_OWNER not like 'APEX_%') order by TABLE_OWNER
+17:42:17.781 [Thread-12] INFO  c.d.h.c.p.service.ProfileRunnable - Profiling [DATICAL]: Mon Oct 29 17:42:17 CDT 2018
+17:42:17.781 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: gatherTableProfiles
+17:42:17.781 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getTableDescriptions
+17:42:17.847 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                               getTableDescriptions took     0.0593 seconds
+17:42:17.847 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: get detailed info for all tables
+17:42:17.847 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getUniqueConstraints (for whole schema 'DATICAL')
+17:42:17.847 [Thread-12] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+select UC.constraint_name AS UC_CONSTRAINT_NAME, UC.table_name AS UC_TABLE_NAME, UC.owner AS UC_OWNER, UI.index_name AS UI_INDEX_NAME, UI.owner AS UI_OWNER from all_constraints UC, all_indexes UI where UC.constraint_type='U' and UC.index_name = UI.index_name and UC.owner = 'DATICAL'
+17:42:17.865 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -  getUniqueConstraints (for whole schema 'DATICAL') took     0.0157 seconds
+17:42:17.865 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for A_DEMO_TABLE
+17:42:17.865 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getPrimaryKeysForSchema
+17:42:17.865 [Thread-12] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT cols.table_name, cols.column_name, cols.constraint_name, cols.position, cons.status, cons.owner, cons.index_name, cons.index_owner FROM all_constraints cons, all_cons_columns cols WHERE cols.owner = 'DATICAL' AND cons.constraint_type = 'P' AND cons.constraint_name = cols.constraint_name AND cons.owner = cols.owner ORDER BY cols.table_name, cols.position
+17:42:18.203 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                            getPrimaryKeysForSchema took     0.3070 seconds
+17:42:18.204 [Thread-12] INFO  c.d.h.c.p.service.DbProfileHelper - Populate columns map for DATICAL table A_DEMO_TABLE
+17:42:18.204 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: populateColumnsMap
+17:42:18.204 [Thread-12] INFO  c.d.h.c.p.service.DbProfileHelper - Retrieving columns for all tables
+17:42:18.706 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                 populateColumnsMap took     0.4572 seconds
+17:42:18.707 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:42:18.707 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:42:18.707 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: populateIndices
+17:42:18.822 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                    populateIndices took     0.1039 seconds
+17:42:18.822 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.1044 seconds
+17:42:18.822 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.1046 seconds
+17:42:18.822 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:42:18.822 [Thread-12] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT CONSTRAINT_NAME, TABLE_NAME, STATUS FROM ALL_CONSTRAINTS WHERE CONSTRAINT_TYPE = 'C' AND OWNER='DATICAL'
+17:42:18.991 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.1532 seconds
+17:42:18.991 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for A_DEMO_TABLE
+17:42:18.991 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeysForSchema
+17:42:18.991 [Thread-12] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT f.table_name as fktable_name, fc.column_name as fkcolumn_name, f.constraint_name as fk_name FROM all_cons_columns pc, all_constraints p, all_cons_columns fc, all_constraints f WHERE f.owner = 'DATICAL' AND f.constraint_type = 'R' AND p.owner = f.r_owner AND p.constraint_name = f.r_constraint_name AND p.constraint_type = 'P' AND pc.owner = p.owner AND pc.constraint_name = p.constraint_name AND pc.table_name = p.table_name AND fc.owner = f.owner AND fc.constraint_name = f.constraint_name AND fc.table_name = f.table_name AND fc.position = pc.position ORDER BY fktable_name
+17:42:18.994 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                            getForeignKeysForSchema took     0.0024 seconds
+17:42:18.994 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -          getForeignKeyConstraints for A_DEMO_TABLE took     0.0029 seconds
+17:42:18.994 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                         tableInfo for A_DEMO_TABLE took     1.0262 seconds
+17:42:18.994 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for A_DEMO_TABLE1
+17:42:18.994 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:42:18.995 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:42:18.995 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0002 seconds
+17:42:18.995 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0004 seconds
+17:42:18.995 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:42:18.995 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0001 seconds
+17:42:18.995 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for A_DEMO_TABLE1
+17:42:18.995 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -         getForeignKeyConstraints for A_DEMO_TABLE1 took     0.0001 seconds
+17:42:18.996 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                        tableInfo for A_DEMO_TABLE1 took     0.0014 seconds
+17:42:18.996 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for A_DEMO_TABLE2
+17:42:18.996 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:42:18.996 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:42:18.996 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0002 seconds
+17:42:18.996 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0003 seconds
+17:42:18.996 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:42:18.996 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0001 seconds
+17:42:18.997 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for A_DEMO_TABLE2
+17:42:18.997 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -         getForeignKeyConstraints for A_DEMO_TABLE2 took     0.0001 seconds
+17:42:18.997 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                        tableInfo for A_DEMO_TABLE2 took     0.0010 seconds
+17:42:18.997 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for CHAR_USED_TEST_TABLE_1
+17:42:18.997 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:42:18.997 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:42:18.997 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0001 seconds
+17:42:18.998 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0002 seconds
+17:42:18.998 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:42:18.998 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0001 seconds
+17:42:18.998 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for CHAR_USED_TEST_TABLE_1
+17:42:18.998 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - getForeignKeyConstraints for CHAR_USED_TEST_TABLE_1 took     0.0001 seconds
+17:42:18.998 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -               tableInfo for CHAR_USED_TEST_TABLE_1 took     0.0010 seconds
+17:42:18.998 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for DATABASECHANGELOG
+17:42:18.998 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                    tableInfo for DATABASECHANGELOG took     0.0001 seconds
+17:42:18.998 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for DATABASECHANGELOGLOCK
+17:42:18.998 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                tableInfo for DATABASECHANGELOGLOCK took     0.0001 seconds
+17:42:19.000 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for PAYER_LIFE_TEST
+17:42:19.000 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:42:19.000 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:42:19.001 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0000 seconds
+17:42:19.001 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0007 seconds
+17:42:19.001 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:42:19.001 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0001 seconds
+17:42:19.001 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for PAYER_LIFE_TEST
+17:42:19.001 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -       getForeignKeyConstraints for PAYER_LIFE_TEST took     0.0001 seconds
+17:42:19.001 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                      tableInfo for PAYER_LIFE_TEST took     0.0018 seconds
+17:42:19.001 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                   get detailed info for all tables took     1.0486 seconds
+17:42:19.004 [Thread-12] DEBUG c.d.h.c.p.service.DbProfileHelper - 
+DATICAL Gathered row counts for 7 tables
+17:42:19.004 [Thread-12] DEBUG c.d.h.c.p.service.DbProfileHelper - 
+DATICAL Gathered profile information for 7 tables
+17:42:19.004 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                gatherTableProfiles took     1.1111 seconds
+17:42:19.004 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addViews
+17:42:19.077 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                           addViews took     0.0665 seconds
+17:42:19.078 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addProcedures
+17:42:19.078 [Thread-12] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+select object_name from all_objects where object_type='PROCEDURE' AND owner='DATICAL'
+17:42:19.082 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                      addProcedures took     0.0018 seconds
+17:42:19.082 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addFunctions
+17:42:19.082 [Thread-12] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+select object_name from all_objects where object_type='FUNCTION' AND owner='DATICAL'
+17:42:19.085 [Thread-12] DEBUG c.d.h.c.p.service.DbProfileHelper - 
+DATICAL Gathered profile information for 2 functions
+17:42:19.086 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                       addFunctions took     0.0024 seconds
+17:42:19.086 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addPackages
+17:42:19.086 [Thread-12] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT OBJECT_NAME FROM ALL_OBJECTS WHERE OBJECT_TYPE IN ('PACKAGE') AND OWNER='DATICAL'
+17:42:19.089 [Thread-12] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT OBJECT_NAME FROM ALL_OBJECTS WHERE OBJECT_TYPE IN ('PACKAGE BODY') AND OWNER='DATICAL'
+17:42:19.089 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                        addPackages took     0.0036 seconds
+17:42:19.089 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addSynonyms
+17:42:19.089 [Thread-12] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT SYNONYM_NAME, TABLE_NAME FROM ALL_SYNONYMS WHERE OWNER='DATICAL'
+17:42:19.122 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                        addSynonyms took     0.0300 seconds
+17:42:19.122 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addSequences
+17:42:19.130 [Thread-12] DEBUG c.d.h.c.p.service.DbProfileHelper - DATICAL Gathered profile information for 18 sequences
+17:42:19.131 [Thread-12] DEBUG c.d.hammer.core.utils.SimpleTimer -                                       addSequences took     0.0072 seconds
+17:42:19.131 [Thread-12] INFO  c.d.h.c.p.service.ProfileRunnable - Completed profiling [DATICAL]: Mon Oct 29 17:42:19 CDT 2018
+17:42:19.136 [ModalContext] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT TRIGGER_NAME, TRIGGER_BODY, STATUS FROM ALL_TRIGGERS WHERE OWNER='DATICAL'
+17:42:19.215 [ModalContext] INFO  c.d.h.c.p.s.DaticalDbProfileService - Ending profiling of [DATICAL]: Mon Oct 29 17:42:19 CDT 2018
+17:42:19.218 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -                           jobService.takeProfile() took     1.3674 seconds
+17:42:19.218 [ModalContext] INFO  c.d.h.c.f.ForecastJobObjectCreator - Finished taking profile at Mon Oct 29 17:42:19 CDT 2018
+17:42:19.220 [ModalContext] INFO  com.datical.db.ui.DaticalConsole - 
+Profile information for database REF
+
+DATICAL Gathered profile information for 34 columns
+DATICAL Gathered profile information for 1 indices
+DATICAL Gathered profile information for 3 check constraints
+DATICAL Gathered row counts for 7 tables
+DATICAL Gathered profile information for 7 tables
+DATICAL Gathered profile information for 2 functions
+DATICAL Gathered profile information for 18 sequences
+17:42:19.220 [ModalContext] INFO  c.d.d.u.actions.CreateForecastHelper - 
+Profile information for database REF
+
+DATICAL Gathered profile information for 34 columns
+DATICAL Gathered profile information for 1 indices
+DATICAL Gathered profile information for 3 check constraints
+DATICAL Gathered row counts for 7 tables
+DATICAL Gathered profile information for 7 tables
+DATICAL Gathered profile information for 2 functions
+DATICAL Gathered profile information for 18 sequences
+17:42:19.220 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: execForecast
+17:42:19.227 [ModalContext] DEBUG o.drools.core.impl.KnowledgeBaseImpl - Starting Engine in RETEOO mode
+17:42:19.237 [ModalContext] INFO  c.d.h.c.f.rules.PreForecastRules - Loaded rules from classpath preForecast-multiSchemaRules.drl
+17:42:19.343 [ModalContext] DEBUG o.drools.core.impl.KnowledgeBaseImpl - Starting Engine in RETEOO mode
+17:42:19.360 [ModalContext] DEBUG LiquibaseSchemaResolver - Found namespace details class liquibase.parser.core.xml.StandardNamespaceDetails for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
+17:42:19.360 [ModalContext] DEBUG LiquibaseSchemaResolver - Local path for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd is liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:42:19.362 [ModalContext] DEBUG LiquibaseSchemaResolver - Successfully loaded XSD from liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:42:19.481 [ModalContext] DEBUG c.d.h.c.f.DaticalDbForecastService - setting SQL Plus spool location to
+C:\Users\TestUser1\datical\TestK\Logs\2018\10-Oct\REF\forecast_REF_20181029_174217
+17:42:19.481 [ModalContext] DEBUG c.d.h.c.f.DaticalDbForecastService - setting sqlcmd log file location to
+C:\Users\TestUser1\datical\TestK\Logs\2018\10-Oct\REF\forecast_REF_20181029_174217
+17:42:19.481 [ModalContext] DEBUG c.d.h.c.f.DaticalDbForecastService - setting edbplus spool location to
+C:\Users\TestUser1\datical\TestK\Logs\2018\10-Oct\REF\forecast_REF_20181029_174217
+17:42:19.482 [ModalContext] DEBUG o.drools.core.impl.KnowledgeBaseImpl - Starting Engine in RETEOO mode
+17:42:19.482 [ModalContext] INFO  c.d.h.c.f.r.DaticalRulesChangeVisitor - Loaded rules from classpath modifyDataTypeRules.drl
+17:42:19.615 [ModalContext] DEBUG o.drools.core.impl.KnowledgeBaseImpl - Starting Engine in RETEOO mode
+17:42:19.756 [ModalContext] INFO  c.d.h.c.f.rules.PreForecastRules - There were 0 rules fired
+17:42:20.090 [ModalContext] INFO  c.d.h.c.f.DaticalDbForecastService - Forecast for ALL CONTEXTS created. It has 1 TableMods
+17:42:20.090 [ModalContext] DEBUG c.d.h.core.reporting.ReportUtils - Creating forecast report in folder C:\Users\TestUser1\datical\TestK\Reports\2018\10-Oct\REF\forecast_REF_20181029_174217 with templateName forecast and properties {report.template.paths=C:\Users\TestUser1\datical\TestK\Reports\2018\10-Oct\REF\forecast_REF_20181029_174217}
+17:42:20.173 [ModalContext] DEBUG c.d.h.core.reporting.UberTemplate - Initializing Velocity with properties {file.resource.loader.path=templates, ${HOME}/templates,C:\Users\TestUser1\datical\TestK\Reports\2018\10-Oct\REF\forecast_REF_20181029_174217, file.resource.loader.class=org.apache.velocity.runtime.resource.loader.FileResourceLoader, resource.loader=file, runtime.log=${HOME}/velocity.log, file.resource.loader.description=Velocity File Resource Loader}
+17:42:20.363 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -                                       execForecast took     1.0387 seconds
+17:42:20.495 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:48:08.569 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Retrieve status list.
+17:48:08.570 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Checking license
+17:48:08.570 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                   Checking license took     0.0003 seconds
+17:48:08.570 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Create database connection
+17:48:08.571 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:48:08.571 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:48:08.604 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:48:08.604 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:48:08.604 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:48:08.604 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:48:08.604 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:48:08.604 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:48:08.615 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:48:08.641 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:48:08.641 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                         Create database connection took     0.0736 seconds
+17:48:08.642 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Validate default schema
+17:48:08.642 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                            Validate default schema took     0.0002 seconds
+17:48:08.643 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Validate checksums
+17:48:08.749 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                 Validate checksums took     0.1094 seconds
+17:48:08.751 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Retrieve status
+17:48:08.751 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:48:08.751 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:48:08.791 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:48:08.791 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:48:08.791 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:48:08.791 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:48:08.791 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:48:08.791 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:48:08.792 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:48:08.800 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:48:08.803 [main] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:48:08.849 [main] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsBeforeInit is 239 of 250
+17:48:08.905 [main] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:48:09.130 [main] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsAfterInit is 239 of 250
+17:48:09.132 [main] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - liquibase tables initialized
+17:48:09.144 [main] INFO  c.d.hammer.core.DbExternalTools - Using sqlplus located at 'C:\Datical\DaticalDB-5.3\instantclient'
+17:48:09.152 [main] DEBUG LiquibaseSchemaResolver - Found namespace details class liquibase.parser.core.xml.StandardNamespaceDetails for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
+17:48:09.152 [main] DEBUG LiquibaseSchemaResolver - Local path for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd is liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:48:09.152 [main] DEBUG LiquibaseSchemaResolver - Successfully loaded XSD from liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:48:09.311 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:48:09.311 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                    Retrieve status took     0.5780 seconds
+17:48:09.311 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Update status page
+17:48:09.311 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Update status icon
+17:48:09.328 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                 Update status icon took     0.0164 seconds
+17:48:09.387 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                 Update status page took     0.0776 seconds
+17:48:09.387 [main] INFO  com.datical.db.ui.DaticalConsole - Saving project TestK
+17:48:09.387 [main] INFO  c.d.db.model.util.ProjectContainer - Saving project TestK
+17:48:09.434 [main] DEBUG c.d.db.model.util.ProjectContainer - Changing last modified time for project TestK from 1540852421661 to 1540853289430
+17:48:09.437 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:48:09.437 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                              Retrieve status list. took     0.8944 seconds
+17:50:46.825 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:50:46.825 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:50:46.857 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:50:46.857 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:50:46.857 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:50:46.857 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:50:46.857 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:50:46.857 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:50:46.859 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:50:46.897 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:50:46.976 [ModalContext] DEBUG LiquibaseSchemaResolver - Found namespace details class liquibase.parser.core.xml.StandardNamespaceDetails for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
+17:50:46.976 [ModalContext] DEBUG LiquibaseSchemaResolver - Local path for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd is liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:50:46.976 [ModalContext] DEBUG LiquibaseSchemaResolver - Successfully loaded XSD from liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:50:46.997 [ModalContext] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+select owner, object_type, object_name, status from all_objects where status='INVALID'  AND all_objects.owner in ('DATICAL')
+17:50:47.101 [ModalContext] INFO  c.d.h.c.f.ForecastJobObjectCreator - Client 'UI' creating 'deploy' job object at Mon Oct 29 17:50:47 CDT 2018
+17:50:47.101 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Create ForecastJobObject
+17:50:47.101 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: get list of changesets both to run and have run
+17:50:47.197 [ModalContext] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:50:47.216 [ModalContext] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsBeforeInit is 239 of 250
+17:50:47.263 [ModalContext] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:50:47.280 [ModalContext] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsAfterInit is 239 of 250
+17:50:47.282 [ModalContext] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - liquibase tables initialized
+17:50:47.316 [ModalContext] INFO  c.d.hammer.core.DbExternalTools - Using sqlplus located at 'C:\Datical\DaticalDB-5.3\instantclient'
+17:50:47.319 [ModalContext] DEBUG LiquibaseSchemaResolver - Found namespace details class liquibase.parser.core.xml.StandardNamespaceDetails for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
+17:50:47.319 [ModalContext] DEBUG LiquibaseSchemaResolver - Local path for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd is liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:50:47.319 [ModalContext] DEBUG LiquibaseSchemaResolver - Successfully loaded XSD from liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:50:47.402 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -    get list of changesets both to run and have run took     0.3008 seconds
+17:50:47.418 [ModalContext] INFO  c.d.h.c.f.ForecastJobObjectCreator - Client 'UI' created 'deploy' job object at Mon Oct 29 17:50:47 CDT 2018
+17:50:47.418 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -                           Create ForecastJobObject took     0.3168 seconds
+17:50:47.418 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: jobService.takeProfile()
+17:50:47.419 [ModalContext] INFO  c.d.h.c.p.s.DaticalDbProfileService - Starting profiling of [DATICAL]: Mon Oct 29 17:50:47 CDT 2018
+17:50:47.419 [ModalContext] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT SYNONYM_NAME,  TABLE_OWNER AS OBJECT_SCHEMA_NAME, ALL_SYNONYMS.OWNER AS SYNONYM_SCHEMA_NAME, TABLE_NAME AS OBJECT_NAME  FROM ALL_SYNONYMS WHERE OWNER='PUBLIC' and (TABLE_OWNER not in ('APPQOSSYS','BI','CTXSYS','DBMS_PRIVILEGE_CAPTURE','DBSNMP','DIP','DMSYS','DVSYS','EXFSYS','FLOWS_FILES','LBACSYS','MDDATA','MDSYS','MGMT_VIEW','ODM','ODM_MTR','OLAPSYS','ORACLE_OCM','ORDDATA','ORDSYS','OUTLN','SYS','SYSMAN','SYSTEM','WMSYS','XDB' )) and (TABLE_OWNER not like 'APEX_%') order by TABLE_OWNER
+17:50:47.468 [Thread-18] INFO  c.d.h.c.p.service.ProfileRunnable - Profiling [DATICAL]: Mon Oct 29 17:50:47 CDT 2018
+17:50:47.468 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: gatherTableProfiles
+17:50:47.469 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getTableDescriptions
+17:50:47.525 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                               getTableDescriptions took     0.0568 seconds
+17:50:47.525 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: get detailed info for all tables
+17:50:47.526 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getUniqueConstraints (for whole schema 'DATICAL')
+17:50:47.526 [Thread-18] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+select UC.constraint_name AS UC_CONSTRAINT_NAME, UC.table_name AS UC_TABLE_NAME, UC.owner AS UC_OWNER, UI.index_name AS UI_INDEX_NAME, UI.owner AS UI_OWNER from all_constraints UC, all_indexes UI where UC.constraint_type='U' and UC.index_name = UI.index_name and UC.owner = 'DATICAL'
+17:50:47.542 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -  getUniqueConstraints (for whole schema 'DATICAL') took     0.0166 seconds
+17:50:47.542 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for A_DEMO_TABLE
+17:50:47.542 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getPrimaryKeysForSchema
+17:50:47.542 [Thread-18] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT cols.table_name, cols.column_name, cols.constraint_name, cols.position, cons.status, cons.owner, cons.index_name, cons.index_owner FROM all_constraints cons, all_cons_columns cols WHERE cols.owner = 'DATICAL' AND cons.constraint_type = 'P' AND cons.constraint_name = cols.constraint_name AND cons.owner = cols.owner ORDER BY cols.table_name, cols.position
+17:50:47.567 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                            getPrimaryKeysForSchema took     0.0246 seconds
+17:50:47.567 [Thread-18] INFO  c.d.h.c.p.service.DbProfileHelper - Populate columns map for DATICAL table A_DEMO_TABLE
+17:50:47.567 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: populateColumnsMap
+17:50:47.567 [Thread-18] INFO  c.d.h.c.p.service.DbProfileHelper - Retrieving columns for all tables
+17:50:47.980 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                 populateColumnsMap took     0.4116 seconds
+17:50:47.980 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:50:47.980 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:50:47.980 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: populateIndices
+17:50:48.081 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                    populateIndices took     0.1018 seconds
+17:50:48.082 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.1019 seconds
+17:50:48.082 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.1021 seconds
+17:50:48.082 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:50:48.082 [Thread-18] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT CONSTRAINT_NAME, TABLE_NAME, STATUS FROM ALL_CONSTRAINTS WHERE CONSTRAINT_TYPE = 'C' AND OWNER='DATICAL'
+17:50:48.224 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.1424 seconds
+17:50:48.224 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for A_DEMO_TABLE
+17:50:48.224 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeysForSchema
+17:50:48.224 [Thread-18] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT f.table_name as fktable_name, fc.column_name as fkcolumn_name, f.constraint_name as fk_name FROM all_cons_columns pc, all_constraints p, all_cons_columns fc, all_constraints f WHERE f.owner = 'DATICAL' AND f.constraint_type = 'R' AND p.owner = f.r_owner AND p.constraint_name = f.r_constraint_name AND p.constraint_type = 'P' AND pc.owner = p.owner AND pc.constraint_name = p.constraint_name AND pc.table_name = p.table_name AND fc.owner = f.owner AND fc.constraint_name = f.constraint_name AND fc.table_name = f.table_name AND fc.position = pc.position ORDER BY fktable_name
+17:50:48.227 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                            getForeignKeysForSchema took     0.0009 seconds
+17:50:48.227 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -          getForeignKeyConstraints for A_DEMO_TABLE took     0.0028 seconds
+17:50:48.227 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                         tableInfo for A_DEMO_TABLE took     0.6851 seconds
+17:50:48.227 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for A_DEMO_TABLE1
+17:50:48.228 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:50:48.228 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:50:48.228 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0001 seconds
+17:50:48.228 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0004 seconds
+17:50:48.228 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:50:48.228 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0001 seconds
+17:50:48.228 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for A_DEMO_TABLE1
+17:50:48.228 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -         getForeignKeyConstraints for A_DEMO_TABLE1 took     0.0002 seconds
+17:50:48.229 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                        tableInfo for A_DEMO_TABLE1 took     0.0012 seconds
+17:50:48.229 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for A_DEMO_TABLE2
+17:50:48.229 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:50:48.229 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:50:48.229 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0001 seconds
+17:50:48.229 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0003 seconds
+17:50:48.229 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:50:48.229 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0001 seconds
+17:50:48.230 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for A_DEMO_TABLE2
+17:50:48.230 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -         getForeignKeyConstraints for A_DEMO_TABLE2 took     0.0001 seconds
+17:50:48.230 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                        tableInfo for A_DEMO_TABLE2 took     0.0011 seconds
+17:50:48.230 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for CHAR_USED_TEST_TABLE_1
+17:50:48.230 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:50:48.230 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:50:48.230 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0001 seconds
+17:50:48.230 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0003 seconds
+17:50:48.231 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:50:48.231 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0002 seconds
+17:50:48.231 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for CHAR_USED_TEST_TABLE_1
+17:50:48.231 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - getForeignKeyConstraints for CHAR_USED_TEST_TABLE_1 took     0.0001 seconds
+17:50:48.231 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -               tableInfo for CHAR_USED_TEST_TABLE_1 took     0.0011 seconds
+17:50:48.231 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for DATABASECHANGELOG
+17:50:48.231 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                    tableInfo for DATABASECHANGELOG took     0.0001 seconds
+17:50:48.231 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for DATABASECHANGELOGLOCK
+17:50:48.231 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                tableInfo for DATABASECHANGELOGLOCK took     0.0001 seconds
+17:50:48.232 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: tableInfo for PAYER_LIFE_TEST
+17:50:48.232 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getIndices
+17:50:48.232 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: internal getIndices
+17:50:48.232 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                internal getIndices took     0.0001 seconds
+17:50:48.232 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                         getIndices took     0.0004 seconds
+17:50:48.232 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getCheckConstraints
+17:50:48.232 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                getCheckConstraints took     0.0001 seconds
+17:50:48.233 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: getForeignKeyConstraints for PAYER_LIFE_TEST
+17:50:48.233 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -       getForeignKeyConstraints for PAYER_LIFE_TEST took     0.0002 seconds
+17:50:48.233 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                      tableInfo for PAYER_LIFE_TEST took     0.0013 seconds
+17:50:48.233 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                   get detailed info for all tables took     0.7077 seconds
+17:50:48.238 [Thread-18] DEBUG c.d.h.c.p.service.DbProfileHelper - 
+DATICAL Gathered row counts for 7 tables
+17:50:48.238 [Thread-18] DEBUG c.d.h.c.p.service.DbProfileHelper - 
+DATICAL Gathered profile information for 7 tables
+17:50:48.238 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                gatherTableProfiles took     0.7702 seconds
+17:50:48.238 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addViews
+17:50:48.303 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                           addViews took     0.0636 seconds
+17:50:48.303 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addProcedures
+17:50:48.303 [Thread-18] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+select object_name from all_objects where object_type='PROCEDURE' AND owner='DATICAL'
+17:50:48.305 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                      addProcedures took     0.0015 seconds
+17:50:48.305 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addFunctions
+17:50:48.305 [Thread-18] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+select object_name from all_objects where object_type='FUNCTION' AND owner='DATICAL'
+17:50:48.307 [Thread-18] DEBUG c.d.h.c.p.service.DbProfileHelper - 
+DATICAL Gathered profile information for 2 functions
+17:50:48.307 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                       addFunctions took     0.0028 seconds
+17:50:48.308 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addPackages
+17:50:48.308 [Thread-18] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT OBJECT_NAME FROM ALL_OBJECTS WHERE OBJECT_TYPE IN ('PACKAGE') AND OWNER='DATICAL'
+17:50:48.310 [Thread-18] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT OBJECT_NAME FROM ALL_OBJECTS WHERE OBJECT_TYPE IN ('PACKAGE BODY') AND OWNER='DATICAL'
+17:50:48.311 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                        addPackages took     0.0030 seconds
+17:50:48.311 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addSynonyms
+17:50:48.311 [Thread-18] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT SYNONYM_NAME, TABLE_NAME FROM ALL_SYNONYMS WHERE OWNER='DATICAL'
+17:50:48.342 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                        addSynonyms took     0.0309 seconds
+17:50:48.342 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: addSequences
+17:50:48.348 [Thread-18] DEBUG c.d.h.c.p.service.DbProfileHelper - DATICAL Gathered profile information for 18 sequences
+17:50:48.348 [Thread-18] DEBUG c.d.hammer.core.utils.SimpleTimer -                                       addSequences took     0.0067 seconds
+17:50:48.349 [Thread-18] INFO  c.d.h.c.p.service.ProfileRunnable - Completed profiling [DATICAL]: Mon Oct 29 17:50:48 CDT 2018
+17:50:48.355 [ModalContext] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+SELECT TRIGGER_NAME, TRIGGER_BODY, STATUS FROM ALL_TRIGGERS WHERE OWNER='DATICAL'
+17:50:48.424 [ModalContext] INFO  c.d.h.c.p.s.DaticalDbProfileService - Ending profiling of [DATICAL]: Mon Oct 29 17:50:48 CDT 2018
+17:50:48.424 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -                           jobService.takeProfile() took     1.0059 seconds
+17:50:48.424 [ModalContext] INFO  c.d.h.c.f.ForecastJobObjectCreator - Finished taking profile at Mon Oct 29 17:50:48 CDT 2018
+17:50:48.459 [ModalContext] DEBUG o.drools.core.impl.KnowledgeBaseImpl - Starting Engine in RETEOO mode
+17:50:48.472 [ModalContext] INFO  c.d.h.c.f.rules.PreForecastRules - Loaded rules from classpath preForecast-multiSchemaRules.drl
+17:50:48.549 [ModalContext] DEBUG o.drools.core.impl.KnowledgeBaseImpl - Starting Engine in RETEOO mode
+17:50:48.560 [ModalContext] DEBUG LiquibaseSchemaResolver - Found namespace details class liquibase.parser.core.xml.StandardNamespaceDetails for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
+17:50:48.560 [ModalContext] DEBUG LiquibaseSchemaResolver - Local path for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd is liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:50:48.560 [ModalContext] DEBUG LiquibaseSchemaResolver - Successfully loaded XSD from liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:50:49.273 [ModalContext] DEBUG c.d.h.c.f.DaticalDbForecastService - setting SQL Plus spool location to
+C:\Users\TestUser1\datical\TestK\Reports\2018\10-Oct\REF\deploy_REF_20181029_175046
+17:50:49.273 [ModalContext] DEBUG c.d.h.c.f.DaticalDbForecastService - setting sqlcmd log file location to
+C:\Users\TestUser1\datical\TestK\Reports\2018\10-Oct\REF\deploy_REF_20181029_175046
+17:50:49.273 [ModalContext] DEBUG c.d.h.c.f.DaticalDbForecastService - setting edbplus spool location to
+C:\Users\TestUser1\datical\TestK\Reports\2018\10-Oct\REF\deploy_REF_20181029_175046
+17:50:49.274 [ModalContext] DEBUG o.drools.core.impl.KnowledgeBaseImpl - Starting Engine in RETEOO mode
+17:50:49.274 [ModalContext] INFO  c.d.h.c.f.r.DaticalRulesChangeVisitor - Loaded rules from classpath modifyDataTypeRules.drl
+17:50:49.618 [ModalContext] DEBUG o.drools.core.impl.KnowledgeBaseImpl - Starting Engine in RETEOO mode
+17:50:49.714 [ModalContext] INFO  c.d.h.c.f.rules.PreForecastRules - There were 0 rules fired
+17:50:49.995 [ModalContext] DEBUG c.d.h.c.m.LiquibaseSchemaMigrationService - setting SQL Plus spool location to
+C:\Users\TestUser1\datical\TestK\Reports\2018\10-Oct\REF\deploy_REF_20181029_175046
+17:50:49.995 [ModalContext] DEBUG c.d.h.c.m.LiquibaseSchemaMigrationService - setting sqlcmd log file location to
+C:\Users\TestUser1\datical\TestK\Reports\2018\10-Oct\REF\deploy_REF_20181029_175046
+17:50:49.995 [ModalContext] DEBUG c.d.h.c.m.LiquibaseSchemaMigrationService - setting edbplus spool location to
+C:\Users\TestUser1\datical\TestK\Reports\2018\10-Oct\REF\deploy_REF_20181029_175046
+17:50:50.003 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Deploying to Liquibase
+17:50:50.023 [ModalContext] INFO  liquibase - Successfully acquired change log lock
+17:50:50.025 [ModalContext] DEBUG LiquibaseSchemaResolver - Found namespace details class liquibase.parser.core.xml.StandardNamespaceDetails for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
+17:50:50.025 [ModalContext] DEBUG LiquibaseSchemaResolver - Local path for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd is liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:50:50.025 [ModalContext] DEBUG LiquibaseSchemaResolver - Successfully loaded XSD from liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:50:50.190 [ModalContext] INFO  liquibase - Changelog/changelog.xml: Changelog/changelog.xml::13425::TSVI: Table VEHICLE created
+17:50:50.194 [ModalContext] INFO  liquibase - Changelog/changelog.xml: Changelog/changelog.xml::13425::TSVI: ChangeSet Changelog/changelog.xml::13425::TSVI ran successfully in 145ms
+17:50:50.214 [ModalContext] INFO  liquibase - Successfully released change log lock
+17:50:50.214 [ModalContext] DEBUG c.d.hammer.core.utils.SimpleTimer -                             Deploying to Liquibase took     0.2106 seconds
+17:50:50.299 [ModalContext] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:50:50.313 [ModalContext] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsBeforeInit is 239 of 251
+17:50:50.365 [ModalContext] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:50:50.379 [ModalContext] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsAfterInit is 239 of 251
+17:50:50.465 [ModalContext] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - liquibase tables initialized
+17:50:50.469 [ModalContext] INFO  c.d.hammer.core.DbExternalTools - Using sqlplus located at 'C:\Datical\DaticalDB-5.3\instantclient'
+17:50:50.472 [ModalContext] DEBUG LiquibaseSchemaResolver - Found namespace details class liquibase.parser.core.xml.StandardNamespaceDetails for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
+17:50:50.472 [ModalContext] DEBUG LiquibaseSchemaResolver - Local path for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd is liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:50:50.472 [ModalContext] DEBUG LiquibaseSchemaResolver - Successfully loaded XSD from liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:50:50.558 [ModalContext] DEBUG LiquibaseSchemaResolver - Found namespace details class liquibase.parser.core.xml.StandardNamespaceDetails for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
+17:50:50.558 [ModalContext] DEBUG LiquibaseSchemaResolver - Local path for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd is liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:50:50.558 [ModalContext] DEBUG LiquibaseSchemaResolver - Successfully loaded XSD from liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:50:50.573 [ModalContext] DEBUG c.d.h.c.p.util.DaticalQueryRunner - executing query:
+select owner, object_type, object_name, status from all_objects where status='INVALID'  AND all_objects.owner in ('DATICAL')
+17:50:50.731 [main] DEBUG c.d.h.core.reporting.ReportUtils - Creating forecast report in folder C:\Users\TestUser1\datical\TestK\Reports\2018\10-Oct\REF\deploy_REF_20181029_175046 with templateName deploy and properties {report.template.paths=C:\Users\TestUser1\datical\TestK\Reports\2018\10-Oct\REF\deploy_REF_20181029_175046}
+17:50:50.826 [main] DEBUG c.d.h.core.reporting.UberTemplate - Initializing Velocity with properties {file.resource.loader.path=templates, ${HOME}/templates,C:\Users\TestUser1\datical\TestK\Reports\2018\10-Oct\REF\deploy_REF_20181029_175046, file.resource.loader.class=org.apache.velocity.runtime.resource.loader.FileResourceLoader, resource.loader=file, runtime.log=${HOME}/velocity.log, file.resource.loader.description=Velocity File Resource Loader}
+17:50:51.359 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Retrieve status list
+17:50:51.360 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:50:51.360 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:50:51.435 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:50:51.435 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:50:51.435 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:50:51.435 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:50:51.435 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:50:51.435 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:50:51.436 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:50:51.445 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:50:51.561 [main] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:50:51.572 [main] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsBeforeInit is 239 of 251
+17:50:51.621 [main] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:50:51.632 [main] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsAfterInit is 239 of 251
+17:50:51.633 [main] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - liquibase tables initialized
+17:50:51.636 [main] INFO  c.d.hammer.core.DbExternalTools - Using sqlplus located at 'C:\Datical\DaticalDB-5.3\instantclient'
+17:50:51.638 [main] DEBUG LiquibaseSchemaResolver - Found namespace details class liquibase.parser.core.xml.StandardNamespaceDetails for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
+17:50:51.638 [main] DEBUG LiquibaseSchemaResolver - Local path for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd is liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:50:51.639 [main] DEBUG LiquibaseSchemaResolver - Successfully loaded XSD from liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:50:51.684 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:50:51.684 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                               Retrieve status list took     0.3247 seconds
+17:50:51.684 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Update status page
+17:50:51.684 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Update status icon
+17:50:51.703 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                 Update status icon took     0.0191 seconds
+17:50:51.722 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                 Update status page took     0.0364 seconds
+17:50:51.725 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:53:42.290 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Retrieve status list.
+17:53:42.290 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Checking license
+17:53:42.290 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                   Checking license took     0.0001 seconds
+17:53:42.290 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Create database connection
+17:53:42.290 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:53:42.290 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:53:42.362 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:53:42.365 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:53:42.365 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:53:42.365 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:53:42.365 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:53:42.365 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:53:42.366 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:53:42.372 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:53:42.372 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                         Create database connection took     0.0837 seconds
+17:53:42.373 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Validate default schema
+17:53:42.373 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                            Validate default schema took     0.0001 seconds
+17:53:42.373 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Validate checksums
+17:53:42.376 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                 Validate checksums took     0.0025 seconds
+17:53:42.377 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Retrieve status
+17:53:42.377 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:53:42.377 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:53:42.397 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:53:42.397 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:53:42.397 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:53:42.397 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:53:42.397 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:53:42.397 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:53:42.398 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:53:42.403 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:53:42.405 [main] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:53:42.413 [main] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsBeforeInit is 239 of 251
+17:53:42.455 [main] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:53:42.459 [main] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsAfterInit is 239 of 251
+17:53:42.461 [main] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - liquibase tables initialized
+17:53:42.471 [main] INFO  c.d.hammer.core.DbExternalTools - Using sqlplus located at 'C:\Datical\DaticalDB-5.3\instantclient'
+17:53:42.473 [main] DEBUG LiquibaseSchemaResolver - Found namespace details class liquibase.parser.core.xml.StandardNamespaceDetails for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
+17:53:42.473 [main] DEBUG LiquibaseSchemaResolver - Local path for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd is liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:53:42.473 [main] DEBUG LiquibaseSchemaResolver - Successfully loaded XSD from liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:53:42.518 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:53:42.518 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                    Retrieve status took     0.1457 seconds
+17:53:42.518 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Update status page
+17:53:42.518 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Update status icon
+17:53:42.519 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                 Update status icon took     0.0006 seconds
+17:53:42.537 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                 Update status page took     0.0198 seconds
+17:53:42.537 [main] INFO  com.datical.db.ui.DaticalConsole - Saving project TestK
+17:53:42.537 [main] INFO  c.d.db.model.util.ProjectContainer - Saving project TestK
+17:53:42.577 [main] DEBUG c.d.db.model.util.ProjectContainer - Changing last modified time for project TestK from 1540853289430 to 1540853622574
+17:53:42.581 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:53:42.581 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                              Retrieve status list. took     0.3000 seconds
+17:54:30.736 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Checking license
+17:54:30.736 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                   Checking license took     0.0002 seconds
+17:54:30.739 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Retrieve status list and update pages
+17:54:30.739 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:54:30.739 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:54:30.767 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:54:30.767 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:54:30.767 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:54:30.768 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:54:30.768 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:54:30.768 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:54:30.768 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:54:30.776 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:54:30.776 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Validate default schema
+17:54:30.776 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                            Validate default schema took     0.0001 seconds
+17:54:30.776 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Validate checksums
+17:54:30.779 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                 Validate checksums took     0.0025 seconds
+17:54:30.779 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Retrieve status list
+17:54:30.779 [main] DEBUG c.d.h.c.c.DatabaseBuilder - createDatabaseObject...
+17:54:30.779 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting to load driver oracle.jdbc.OracleDriver using OSGi DriverConsumer
+17:54:30.824 [main] DEBUG c.d.h.c.c.DatabaseBuilder - driverObject is 'oracle.jdbc.OracleDriver'
+17:54:30.824 [main] DEBUG c.d.h.c.c.DatabaseBuilder - attempting connection with URL 'jdbc:oracle:thin:@//localhost:1521/orcl'
+17:54:30.824 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   connection properties are:
+17:54:30.824 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'user' = 'intuser'
+17:54:30.824 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'password' = '***redacted***'
+17:54:30.824 [main] DEBUG c.d.h.c.c.DatabaseBuilder -   'defaultRowPrefetch' = '1000'
+17:54:30.825 [main] DEBUG c.d.h.c.c.DatabaseBuilder - connection successful
+17:54:30.905 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Open 1 : successful connection to database URL jdbc:oracle:thin:@//localhost:1521/orcl
+17:54:30.907 [main] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:54:30.915 [main] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsBeforeInit is 239 of 251
+17:54:30.991 [main] INFO  liquibase - Reading from DATICAL.DATABASECHANGELOG
+17:54:30.996 [main] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - numNullChecksumsAfterInit is 239 of 251
+17:54:30.998 [main] DEBUG c.d.h.c.m.DaticalLiquibaseServiceImpl - liquibase tables initialized
+17:54:31.002 [main] INFO  c.d.hammer.core.DbExternalTools - Using sqlplus located at 'C:\Datical\DaticalDB-5.3\instantclient'
+17:54:31.003 [main] DEBUG LiquibaseSchemaResolver - Found namespace details class liquibase.parser.core.xml.StandardNamespaceDetails for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
+17:54:31.003 [main] DEBUG LiquibaseSchemaResolver - Local path for http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd is liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:54:31.005 [main] DEBUG LiquibaseSchemaResolver - Successfully loaded XSD from liquibase/parser/core/xml/dbchangelog-3.6.xsd
+17:54:31.046 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:54:31.046 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                               Retrieve status list took     0.2428 seconds
+17:54:31.046 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Show status list
+17:54:31.138 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                   Show status list took     0.0825 seconds
+17:54:31.138 [main] DEBUG c.d.hammer.core.utils.SimpleTimer - Beginning: Update status icon
+17:54:31.138 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -                                 Update status icon took     0.0006 seconds
+17:54:31.140 [main] DEBUG c.d.h.c.c.DatabaseBuilder - Close 0 : jdbc:oracle:thin:@//localhost:1521/orcl
+17:54:31.140 [main] DEBUG c.d.hammer.core.utils.SimpleTimer -              Retrieve status list and update pages took     0.3656 seconds

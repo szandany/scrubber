@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ASCII"?>
+<dbproject:Project xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dbproject="http://datical.com/db/project/1.0" name="Datical" storedLogicExternal="true" deployThreshold="stopOnError" enableDdlLockTimeout="true" ddlLockTimeoutValue="20" enableRowCount="false">
+  <dbDefs xsi:type="dbproject:OracleDbDef" name="Dev1" driver="oracle.jdbc.OracleDriver" hostname="gro-ora02u-t.local.dtrts.com" port="1521" username="CAS_ERT_DAT" password="Y3hqMjIwdA==" defaultSchemaName="CAS_ERT_DAT" labels="dev1" serviceName="DEV1.corp.trivin.com" enableCompression="false"/>
+  <dbDefs xsi:type="dbproject:OracleDbDef" name="Test1" driver="oracle.jdbc.OracleDriver" hostname="gro-ora02u-t.local.dtrts.com" port="1521" username="CAS_ERT_DAT" password="Y3hqMjIwdA==" defaultSchemaName="CAS_ERT_DAT" labels="test1" serviceName="TST1.prod.trivin.com" enableCompression="false"/>
+  <dbDefs xsi:type="dbproject:OracleDbDef" name="DevPII" driver="oracle.jdbc.OracleDriver" hostname="gro-ora01u-t.local.dtrts.com" port="1521" username="CAS_ERT_DAT" password="YzMwNjBz" defaultSchemaName="CAS_ERT_DAT" labels="devpii" serviceName="DEVPII.corp.trivin.com" enableCompression="false"/>
+  <dbDefs xsi:type="dbproject:OracleDbDef" name="TestPII" driver="oracle.jdbc.OracleDriver" hostname="gro-ora01u-t.local.dtrts.com" port="1521" username="CAS_ERT_DAT" password="YzMwNjBz" defaultSchemaName="CAS_ERT_DAT" labels="testpii" serviceName="TSTPII.corp.trivin.com" enableCompression="false"/>
+  <dbDefs xsi:type="dbproject:OracleDbDef" name="Cert" driver="oracle.jdbc.OracleDriver" hostname="oracert.gssolrs.net" port="1521" username="datical" password="TGFjaXRhZDE1" defaultSchemaName="CAS_ERT_DAT" labels="cert" serviceName="int1.prod.trivin.com" enableCompression="false"/>
+  <dbDefs xsi:type="dbproject:OracleDbDef" name="Prod" driver="oracle.jdbc.OracleDriver" hostname="rtsrac1.prod.trivin.com" port="1521" username="datical" password="bGFjaXRhZA==" defaultSchemaName="CAS_ERT_DAT" labels="prod" serviceName="prd1.prod.trivin.com" enableCompression="false"/>
+  <plans name="DevTest-DBs" description="This pipleline is used to deploy DB changes on Dev and Test DBs." databaseDefs="//@dbDefs[name='Dev1'] //@dbDefs[name='DevPII'] //@dbDefs[name='TestPII'] //@dbDefs[name='Test1']"/>
+  <plans name="Release-CERTnProd" description="This pipeline is used to generate release scripts to CERT." databaseDefs="//@dbDefs[name='Prod'] //@dbDefs[name='Cert'] //@dbDefs[name='Test1']"/>
+  <changelog href="Changelog/changelog.xml#//@databaseChangeLog"/>
+  <releaseLabels name="dev1" description="Development Database"/>
+  <releaseLabels name="devpii" description="Development PII Database."/>
+  <releaseLabels name="test1" description="Test Database."/>
+  <releaseLabels name="testpii" description="Test PII Database."/>
+  <releaseLabels name="cert" description="Certification Database."/>
+  <releaseLabels name="prod" description="Production Database."/>
+  <releaseLabels name="test1_ignored" description=""/>
+  <releaseLabels name="common" description="All common DB changes accross all states."/>
+  <releaseLabels name="ca" description="Label to be used on California change sets."/>
+  <releaseLabels name="pa" description="Label to be used on Pennsylvania change sets."/>
+  <releaseLabels name="ga" description="Georgia"/>
+  <releaseLabels name="il" description="Illinois"/>
+  <releaseLabels name="oh" description="Ohio"/>
+  <releaseLabels name="in" description="Indiana"/>
+  <releaseLabels name="va" description="Virgenia"/>
+  <releaseLabels name="wi" description="Wisconsin"/>
+  <schemas name=""/>
+</dbproject:Project>
