@@ -16,10 +16,10 @@ instructions (example):
 #include <fstream>
 #include <sstream>
 #include <string>
-using namespace std;//another comment
+using namespace std;
 
 void findAndClean(string, string);
-void removeAndRename(string); //comment
+void removeAndRename(string);
 
 int main(int argc, char** argv)
 {
