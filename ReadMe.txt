@@ -2,7 +2,7 @@ Introduction:
 
 This app will help you scrubb any sensitive data from your datical file.
 
-The app will not modify your actual file, instead it will create a scrubbed copy of your file..
+The app will not modify your actual file, instead it will create a scrubbed copy of your file...
 
 The two most common files that would typiclly be used are: daticaldb.log and datical.project
 However this app can handle any text file.
