@@ -19,7 +19,7 @@ instructions (example):
 using namespace std;
 
 void findAndClean(string, string);
-void removeAndRename(string);
+void removeAndRename(string); //comment
 
 int main(int argc, char** argv)
 {
