@@ -16,7 +16,7 @@ instructions (example):
 #include <fstream>
 #include <sstream>
 #include <string>
-using namespace std;
+using namespace std;//another comment
 
 void findAndClean(string, string);
 void removeAndRename(string); //comment
